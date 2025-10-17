@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Poorva Dixit
 
-<!--
-**poorva06d/poorva06d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student at MNNIT Allahabad  
+💻 Passionate about Web Development, Machine Learning, and Artificial Intelligence  
+🚀 Currently exploring MongoDB, React.js, and AI-powered applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills & Technologies
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js 
+- **Database:** MySQL  
+- **Tools:** GitHub, VS Code, Google Colab 
+- **Others:** Python, C++, Java(basics),Machine Learning basics 
+
+---
+
+🌱 *“Always learning, always building.”*
+
