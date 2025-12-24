@@ -2,7 +2,7 @@
 
 🎓 B.Tech student at MNNIT Allahabad  
 💻 Passionate about Web Development, Machine Learning, and Artificial Intelligence  
-🚀 Currently exploring MongoDB, React.js, and AI-powered applications  
+🚀 Currently exploring Postgre, React.js, and AI-powered applications  
 
 ---
 
